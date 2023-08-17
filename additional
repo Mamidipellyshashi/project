@@ -1,0 +1,16 @@
+<html>
+<body align="center">
+<form action="db.php">
+<table>
+<tr>Enter sr no:<input type="text"></tr>
+<br><br>
+<tr>upload profile:</tr><br><br>
+<tr>id:<input type="text"></tr><br><br>
+<tr>Name:<input type="text"></tr><br><br>
+<tr>Last name:<input type="text"></tr><br><br>
+<tr>e-mail:<input type="text"></tr><br><br>
+<tr>office code:<input type="text"></tr><br><br>
+<tr>job title:<input type="text"></tr><br><br>
+<tr><input type="submit">&nbsp;&nbsp;<input type="reset"></tr></table></form>
+</body>
+</html>
